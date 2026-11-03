@@ -1,0 +1,6 @@
+/Users/komal/Desktop/Research/FHE/Code/src/build/CMakeFiles/server.dir
+/Users/komal/Desktop/Research/FHE/Code/src/build/CMakeFiles/client.dir
+/Users/komal/Desktop/Research/FHE/Code/src/build/CMakeFiles/benchmark_fhe_ops.dir
+/Users/komal/Desktop/Research/FHE/Code/src/build/CMakeFiles/network_bandwidth_test.dir
+/Users/komal/Desktop/Research/FHE/Code/src/build/CMakeFiles/edit_cache.dir
+/Users/komal/Desktop/Research/FHE/Code/src/build/CMakeFiles/rebuild_cache.dir
