@@ -1,4 +1,4 @@
-# Arcana: running the client and server
+# Arcana: Efficient, Scalable, Keyword PIR  on Public Data
 
 Arcana is a keyword PIR system over public data (BFV homomorphic encryption, Microsoft SEAL). A **server** holds the
 key-value store and answers an encrypted query; a **client** encrypts a key, sends it, and decrypts the values.
